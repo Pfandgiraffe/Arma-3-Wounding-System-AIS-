@@ -11,4 +11,4 @@ Visit BI forum thread for comments and/or community help. --> https://forums.bis
 
 
 Hints:
-To test 
+To test crerate a new mission in the editor of Arma 3 or create a new folder in .../mpmissions with something like A3_Wounding_System.Tanoa and place all files from the repo within. It is mandatory to use .Tanoa Island cause the template was build on Tanoa. You can create every template you want if you know how to handle the mission.sqm. You can also have a look on steam and subscribe to the Wounding System. (https://steamcommunity.com/sharedfiles/filedetails/?id=954149033)
